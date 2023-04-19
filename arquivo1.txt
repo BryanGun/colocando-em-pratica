@@ -1,2 +1,3 @@
 Uma linha no arquivo
+Mais um linha
 Resolvi escrever outra linha
